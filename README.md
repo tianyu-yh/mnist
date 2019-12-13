@@ -1,2 +1,2 @@
 # pytorch-mnist
-handwritten numeral recognition
+pytorch实现手写体数字识别
