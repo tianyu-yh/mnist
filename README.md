@@ -1,3 +1,2 @@
-# mnist
+# pytorch-mnist
 handwritten numeral recognition
-pytorch
